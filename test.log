@@ -46,3 +46,75 @@
 2021-03-12 22:38:31,387:INFO:flipkrat.py:login popup handled
 2021-03-12 22:38:31,835:INFO:flipkrat.py:Search begins for Nike
 2021-03-12 22:38:38,080:INFO:flipkrat.py:Data saved in scrapper file
+2023-05-16 19:59:06,331:INFO:flipkrat.py:Url hitted
+2023-05-16 19:59:06,526:INFO:flipkrat.py:login popup handled
+2023-05-16 19:59:06,847:INFO:flipkrat.py:Search begins for iphone7
+2023-05-16 20:00:26,482:INFO:flipkrat.py:Url hitted
+2023-05-16 20:00:26,588:INFO:flipkrat.py:login popup handled
+2023-05-16 20:00:26,837:INFO:flipkrat.py:Search begins for iphone7
+2023-05-16 20:32:10,983:INFO:flipkrat.py:Url hitted
+2023-05-16 20:32:11,125:INFO:flipkrat.py:login popup handled
+2023-05-16 20:32:11,455:INFO:flipkrat.py:Search begins for iphone7
+2023-05-16 20:38:16,957:INFO:flipkrat.py:Url hitted
+2023-05-16 20:38:17,074:INFO:flipkrat.py:login popup handled
+2023-05-16 20:38:17,324:INFO:flipkrat.py:Search begins for iphone7
+2023-07-11 20:08:44,079:INFO:flipkrat.py:Url hitted
+2023-07-11 20:08:44,304:INFO:flipkrat.py:login popup handled
+2023-07-11 20:08:44,598:INFO:flipkrat.py:Search begins for iphone7
+2023-07-11 20:10:28,625:INFO:flipkrat.py:Url hitted
+2023-07-11 20:10:28,746:INFO:flipkrat.py:login popup handled
+2023-07-11 20:10:29,015:INFO:flipkrat.py:Search begins for samsung
+2023-07-11 20:11:27,514:INFO:flipkrat.py:Thread run completed
+2023-07-11 20:24:33,402:INFO:flipkrat.py:Url hitted
+2023-07-11 20:24:33,484:INFO:flipkrat.py:login popup handled
+2023-07-11 20:24:33,718:INFO:flipkrat.py:Search begins for samsung
+2023-07-11 20:30:17,050:INFO:flipkrat.py:Url hitted
+2023-07-11 20:30:17,160:INFO:flipkrat.py:login popup handled
+2023-07-11 20:30:17,423:INFO:flipkrat.py:Search begins for samsung
+2023-07-11 20:33:17,749:INFO:flipkrat.py:Url hitted
+2023-07-11 20:33:17,888:INFO:flipkrat.py:login popup handled
+2023-07-11 20:33:18,148:INFO:flipkrat.py:Search begins for samsung
+2023-07-13 19:28:45,304:INFO:flipkrat.py:Url hitted
+2023-07-13 19:28:45,425:INFO:flipkrat.py:login popup handled
+2023-07-13 19:28:45,760:INFO:flipkrat.py:Search begins for iphone7
+2023-07-13 19:43:55,371:INFO:flipkrat.py:Url hitted
+2023-07-13 19:43:55,489:INFO:flipkrat.py:login popup handled
+2023-07-13 19:43:55,789:INFO:flipkrat.py:Search begins for iphone7
+2023-07-13 19:46:04,720:INFO:flipkrat.py:Url hitted
+2023-07-13 19:46:04,829:INFO:flipkrat.py:login popup handled
+2023-07-13 19:46:05,122:INFO:flipkrat.py:Search begins for iphonex
+2023-07-13 19:52:06,153:INFO:flipkrat.py:Url hitted
+2023-07-13 19:52:06,292:INFO:flipkrat.py:login popup handled
+2023-07-13 19:52:06,571:INFO:flipkrat.py:Search begins for iphonex
+2023-07-13 19:59:30,158:INFO:flipkrat.py:Url hitted
+2023-07-13 19:59:30,263:INFO:flipkrat.py:login popup handled
+2023-07-13 19:59:30,522:INFO:flipkrat.py:Search begins for iphone8
+2023-07-13 20:00:33,102:INFO:flipkrat.py:Url hitted
+2023-07-13 20:00:33,212:INFO:flipkrat.py:login popup handled
+2023-07-13 20:00:33,409:INFO:flipkrat.py:Search begins for iphone8
+2023-07-13 20:04:12,444:INFO:flipkrat.py:Url hitted
+2023-07-13 20:04:12,545:INFO:flipkrat.py:login popup handled
+2023-07-13 20:04:12,792:INFO:flipkrat.py:Search begins for iphone7
+2023-07-13 20:07:23,190:INFO:flipkrat.py:Url hitted
+2023-07-13 20:08:57,155:INFO:flipkrat.py:Url hitted
+2023-07-13 20:10:00,373:INFO:flipkrat.py:Url hitted
+2023-07-13 20:12:32,513:INFO:flipkrat.py:Url hitted
+2023-07-13 20:12:32,620:INFO:flipkrat.py:login popup handled
+2023-07-13 20:12:32,860:INFO:flipkrat.py:Search begins for headset
+2023-07-13 20:13:42,914:INFO:flipkrat.py:Url hitted
+2023-07-13 20:14:20,874:INFO:flipkrat.py:Url hitted
+2023-07-13 20:14:20,978:INFO:flipkrat.py:login popup handled
+2023-07-13 20:14:21,246:INFO:flipkrat.py:Search begins for headset
+2023-07-13 20:15:19,572:INFO:flipkrat.py:Url hitted
+2023-07-13 20:15:19,681:INFO:flipkrat.py:login popup handled
+2023-07-13 20:15:19,913:INFO:flipkrat.py:Search begins for samsung
+2023-07-13 20:15:43,729:INFO:flipkrat.py:Thread run completed
+2023-07-13 20:17:15,157:INFO:flipkrat.py:Url hitted
+2023-07-13 20:18:00,562:INFO:flipkrat.py:Url hitted
+2023-07-13 20:18:00,698:INFO:flipkrat.py:login popup handled
+2023-07-13 20:18:01,047:INFO:flipkrat.py:Search begins for iphone12
+2023-07-13 20:18:52,746:INFO:flipkrat.py:Thread run completed
+2023-07-14 08:23:39,305:INFO:flipkrat.py:Url hitted
+2023-07-14 08:23:39,420:INFO:flipkrat.py:login popup handled
+2023-07-14 08:23:39,645:INFO:flipkrat.py:Search begins for iphone14pro
+2023-07-14 08:24:42,305:INFO:flipkrat.py:Thread run completed
