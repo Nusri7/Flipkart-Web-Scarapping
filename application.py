@@ -54,7 +54,7 @@ class threadClass:
 
 
 
-@app.route('/', methods=['POST', 'GET'])
+@application.route('/', methods=['POST', 'GET'])
 @cross_origin()
 def index():
     if request.method == 'POST':
@@ -104,7 +104,7 @@ def index():
         return render_template('index.html')
 
 
-@app.route('/feedback', methods=['GET'])
+@application.route('/feedback', methods=['GET'])
 @cross_origin()
 def feedback():
     try:
@@ -125,13 +125,13 @@ def feedback():
         raise Exception("(feedback) - Something went wrong on retrieving feedback.\n" + str(e))
 
 
-@app.route("/graph", methods=['GET'])
+@application.route("/graph", methods=['GET'])
 @cross_origin()
 def graph():
     return redirect(url_for('plot_png'))
 
 
-@app.route('/a', methods=['GET'])
+@application.route('/a', methods=['GET'])
 def plot_png():
     fig = create_figure()
     output = io.BytesIO()
