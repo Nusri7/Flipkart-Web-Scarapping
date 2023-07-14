@@ -21,3 +21,5 @@ def getLog(nm):
     # Adding Handlers to logger
     logger.addHandler(file_handler)
     return logger
+
+

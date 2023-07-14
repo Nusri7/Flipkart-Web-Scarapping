@@ -53,6 +53,7 @@ class threadClass:
         free_status = True
 
 
+
 @app.route('/', methods=['POST', 'GET'])
 @cross_origin()
 def index():
