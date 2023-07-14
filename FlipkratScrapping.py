@@ -129,6 +129,8 @@ class FlipkratScrapper:
         """
         This function handle/closes the login popup displayed.
         """
+
+
         try:
             self.wait()
             locator = self.getLocatorsObject()
